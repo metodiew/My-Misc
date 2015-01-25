@@ -3,6 +3,7 @@ alias modproberm="sudo modprobe -r rtl8723be"
 alias modprobeadd="sudo modprobe rtl8723be"
 
 ### Useful commands ###
+export hdd=/mnt/5DB56B841BB28CF1
 
 ### WP-Cli Tab completions ###
 source /home/metodiew/.scripts/wp-completion.bash
