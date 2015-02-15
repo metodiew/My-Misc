@@ -1,5 +1,15 @@
+<?php
+/**
+ * Theme's Functions file
+ *
+ * @file           functions.php
+ * @author         Stanko Metodiev
+ * @link           http://codex.wordpress.org/Theme_Development#Functions_File
+ */
+
 /**
  * Browser and OS detection
+ * Detects user' OS and Browser and adds classes to the <body> tag
  */
 function metodiew_browser_os_body_class( $classes ) {
     global $is_lynx, $is_gecko, $is_IE, $is_opera, $is_NS4, $is_safari, $is_chrome, $is_iphone;
