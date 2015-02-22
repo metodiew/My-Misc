@@ -4,6 +4,7 @@ alias modprobeadd="sudo modprobe rtl8723be"
 
 ### Useful commands ###
 export hdd=/mnt/5DB56B841BB28CF1
+alias sasswatch="sass --watch sass/master.scss:css/master.css --style compressed"
 
 ### WP-Cli Tab completions ###
 source /home/metodiew/.scripts/wp-completion.bash
