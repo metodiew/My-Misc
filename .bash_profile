@@ -3,7 +3,10 @@ alias modproberm="sudo modprobe -r rtl8723be"
 alias modprobeadd="sudo modprobe rtl8723be"
 
 ### Useful commands ###
+# an easy way to open D partition
 export hdd=/mnt/5DB56B841BB28CF1
+
+# an easy way to use sass --watch
 alias sasswatch="sass --watch sass/master.scss:css/master.css --style compressed"
 
 ### WP-Cli Tab completions ###
