@@ -105,4 +105,3 @@
 	<option value="WI">WI</option>
 	<option value="WY">WY</option>
 </select>
-
