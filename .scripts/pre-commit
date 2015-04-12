@@ -1,18 +1,22 @@
-#!/bin/sh
+#!tbin/sh
+
+# Colors
+color_red='\033[0;31m'
+no_color='\033[0m' # No Color
  
 if git diff --cached | grep "debugger"
 then
-   echo -e "\e[1;34mdebugger statement found in the diff\e[0m"
+   echo -e "${color_red}debugger statement found in the diff${no_color}"
 fi
 
 if git diff --cached | grep "var_dump"
 then
-   echo -e "\e[1;34mvar_dump found in the commit\e[0m"
+   echo -e "${color_red}var_dump found in the commit${no_color}"
 fi
 
 if git diff --cached | grep "console.log"
 then
-   echo -e "\e[1;34console.log found in the commit\e[0m"
+   echo -e "${color_red}console.log found in the commit${no_color}"
 fi
 
 commit_oneline=`git diff --cached | grep "^+" | grep -v "+++"`
