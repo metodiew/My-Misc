@@ -1,4 +1,4 @@
-#!tbin/sh
+#!bin/sh
 
 # Colors
 color_red='\033[0;31m'
