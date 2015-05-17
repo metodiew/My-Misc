@@ -51,3 +51,21 @@ function metodiew_browser_os_body_class( $classes ) {
 }
 
 add_filter( 'body_class', 'metodiew_browser_os_body_class' );
+
+/**
+ * Return the src of the first image from post
+ * @param string $post_id
+ * @return void|string
+ */
+function catch_the_first_image( $post_id = null ) {
+	if ( empty( $post_id ) ) {
+		return;
+	}
+	
+	$post = get_post( $post_id );
+	$first_img = '';
+	$output = preg_match_all( '/<img.+src=[\'"]([^\'"]+)[\'"].*>/i', $post->post_content, $matches );
+	$first_img = isset( $matches[1][0] ) ? $matches[1][0] : '';
+
+	return $first_img;
+}
