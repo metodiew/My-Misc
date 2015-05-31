@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/torguard
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=Torguard VPN Client
+Name=Torguard VPN Client
+Comment[en_US]=TorGuard VPN Software
+Comment=TorGuard VPN Software

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/hamster-time-tracker
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=Time Tracker
+Name=Time Tracker
+Comment[en_US]=
+Comment=
