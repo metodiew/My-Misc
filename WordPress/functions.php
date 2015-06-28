@@ -11,7 +11,7 @@
  * Browser and OS detection
  * Detects user' OS and Browser and adds classes to the <body> tag
  */
-function metodiew_browser_os_body_class( $classes ) {
+function dx_browser_os_body_class( $classes ) {
     global $is_lynx, $is_gecko, $is_IE, $is_opera, $is_NS4, $is_safari, $is_chrome, $is_iphone;
     
     if ( $is_lynx ) { 
@@ -50,7 +50,7 @@ function metodiew_browser_os_body_class( $classes ) {
 	return $classes;
 }
 
-add_filter( 'body_class', 'metodiew_browser_os_body_class' );
+add_filter( 'body_class', 'dx_browser_os_body_class' );
 
 /**
  * Return the src of the first image from post
@@ -68,4 +68,22 @@ function catch_the_first_image( $post_id = null ) {
 	$first_img = isset( $matches[1][0] ) ? $matches[1][0] : '';
 
 	return $first_img;
+}
+
+/**
+ * Get Featured Image URL
+ */
+function dx_get_featured_image_url( $post_id ) {
+	if ( empty( $post_id ) ) {
+		return;
+	}
+	
+	$image_args = wp_get_attachment_image_src( get_post_thumbnail_id( $post_id ), '' );
+	
+	$image = '';
+	if ( ! empty( $image_args ) && is_array( $image_args ) ) {
+		$image = $image_args[0];
+	}
+	
+	return $image;
 }
