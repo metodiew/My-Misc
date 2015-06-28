@@ -67,18 +67,42 @@ end
 #
 # Trigger: wp_plugin_header
 #
-  snippet "WordPress Plugin Header" do |snip|
+snippet "WordPress Plugin Header" do |snip|
   snip.trigger = "wp_plugin_header"
   snip.expansion  = "/*\n"
-  snip.expansion += "Plugin Name: \n"
+  snip.expansion += "Plugin Name: Plugin Name Here\n"
   snip.expansion += "Plugin URI:  http://#\n"
-  snip.expansion += "Description: \n"
+  snip.expansion += "Description: Plugin Description Here.\n"
   snip.expansion += "Version:     0.1\n"
   snip.expansion += "Author:      Stanko Metodiev\n"
   snip.expansion += "Author URI:  http://metodiew.com\n"
   snip.expansion += "License:     GPL2\n"
   snip.expansion += "License URI: https://www.gnu.org/licenses/gpl-2.0.html\n"
   snip.expansion += "Domain Path: /languages\n"
-  snip.expansion += "Text Domain: plugin-text-domain\n"
+  snip.expansion += "Text Domain: plugin_text_domain\n"
+  snip.expansion += " */"
+end
+
+#
+# WordPress Theme Header
+#
+# Trigger: wp_theme_header
+#
+snippet "WordPress Theme Header" do |snip|
+  snip.trigger = "wp_theme_header"
+  snip.expansion  = "/*\n"
+  snip.expansion += "Theme Name:  Theme Name Here\n"
+  snip.expansion += "Theme URI:   http://#\n"
+  snip.expansion += "Author:      Stanko Metodiev\n"
+  snip.expansion += "Author URI:  http://metodiew.com\n"
+  snip.expansion += "Description: Theme Description here\n"
+  snip.expansion += "Version:     0.1\n"
+  snip.expansion += "License:     GPL2\n"
+  snip.expansion += "License URI: https://www.gnu.org/licenses/gpl-2.0.html\n"
+  snip.expansion += "Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready \n"
+  snip.expansion += "Text Domain: theme_text_domain\n"
+  snip.expansion += "\n"
+  snip.expansion += "This theme, like WordPress, is licensed under the GPL.\n"
+  snip.expansion += "Use it to make something cool, have fun, and share what you've learned with others.\n"
   snip.expansion += " */"
 end
