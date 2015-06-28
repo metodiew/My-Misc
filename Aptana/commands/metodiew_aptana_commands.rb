@@ -22,7 +22,6 @@ snippet "PHP ! empty and foreach template" do |snip|
   snip.expansion += "}\n"
 end
 
-
 # PHP var_dump mit <pre>
 #
 # Trigger: var_dump_pre
@@ -60,6 +59,16 @@ snippet "PHP-Doc Function" do |snip|
   snip.expansion += " * @param type $var Optional. Description.\n"
   snip.expansion += " * @return type Description.\n"
   snip.expansion += " */"
+end
+
+#
+# WordPress index.php
+#
+# Trigger: index_php
+#
+snippet "WordPress index.php" do |snip|
+  snip.trigger = "index_php"
+  snip.expansion  = "// Silence is golden."
 end
 
 #
