@@ -1,6 +1,7 @@
 ##########################################################################
 # Own comments & snippets
 # Author: Stanko Metodiew <stanko@metodiew.com>
+# File location: /home/metodiew/Documents/Aptana Rubles/php.ruble/commands/
 ##########################################################################
 
 # PHP foreach template
