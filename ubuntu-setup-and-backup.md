@@ -38,6 +38,11 @@
 * Browsers
   * Chrome
   * Firefox Developer
+    * ```
+	sudo add-apt-repository ppa:ubuntu-mozilla-daily/firefox-aurora
+	sudo apt-get update
+	sudo apt-get install firefox
+      ```
   * Opera
 * Skype
 * Skype 2
