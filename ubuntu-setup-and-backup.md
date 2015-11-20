@@ -37,15 +37,10 @@
 ## Software, Programs, Toosl
 * Browsers
   * Chrome
-  * Firefox Developer
-    * ```
-	sudo add-apt-repository ppa:ubuntu-mozilla-daily/firefox-aurora
-	sudo apt-get update
-	sudo apt-get install firefox
-      ```
+  * [Firefox Developer](http://askubuntu.com/a/548005)
   * Opera
 * Skype
-* Skype 2
+* [Skype 2](http://blog.metodiew.com/vtora-skype-instantsiya-secondary-skype-pod-ubuntu-12-04/)
 * HipChat
 * XChat
 * Guake
@@ -64,14 +59,17 @@
 * Vagrant
 * VVV
 * Gimp
-* Ecllise / Aptana / Other IDE
+* Ecllise - [Setup WordPress coding formatter](https://github.com/metodiew/My-Misc/blob/master/Eclipse-PDT/eclipse-WordPress-formatter.xml)
 * wp-cli
 * Sass/Compass
 * Grunt
-* ack
+* [ack](http://metodiew.com/install-ack-on-ubuntu/)
 * Xdebug
 * Poedit
 
 ## Things TODO after install
 * Vivacom USB - fix the isuse
 * HDMI Sound - fix the issue
+* [No Alt + Tab in 15.04 Gnome Flashback session?] (http://askubuntu.com/a/498317)
+* [Fix Calendar Language issue](http://askubuntu.com/a/288365)
+* Add Workspaces - `Go to Compiz Settings => General Options => Desktop Size`
