@@ -42,6 +42,7 @@
 * Skype
 * [Skype 2](http://blog.metodiew.com/vtora-skype-instantsiya-secondary-skype-pod-ubuntu-12-04/)
 * HipChat
+* Slack
 * XChat
 * Guake
 * VLC
