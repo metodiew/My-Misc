@@ -74,3 +74,4 @@
 * [No Alt + Tab in 15.04 Gnome Flashback session?] (http://askubuntu.com/a/498317)
 * [Fix Calendar Language issue](http://askubuntu.com/a/288365)
 * Add Workspaces - `Go to Compiz Settings => General Options => Desktop Size`
+* [How to keep apache and mysql from starting automatically] (http://askubuntu.com/a/138495)
