@@ -1,5 +1,8 @@
 # Ubuntu Setup and Backup
 
+Shit happens, you know? And when it happened we need to be prepared. That's why I'm using this document 
+with list of todo tasks and useful URLs to make my life easier when it comes to format and re-install of my Ubuntu.
+
 ## Local Directories
 * Backups/Backup Files
 * Books
@@ -69,9 +72,11 @@
 * Poedit
 
 ## Things TODO after install
-* Vivacom USB - fix the isuse
+* Vivacom USB - [Huawei E173s and Ubuntu] (http://metodiew.com/huawei-e173s-and-ubuntu/)
 * HDMI Sound - fix the issue
 * [No Alt + Tab in 15.04 Gnome Flashback session?] (http://askubuntu.com/a/498317)
 * [Fix Calendar Language issue](http://askubuntu.com/a/288365)
 * Add Workspaces - `Go to Compiz Settings => General Options => Desktop Size`
 * [How to keep apache and mysql from starting automatically] (http://askubuntu.com/a/138495)
+* [How to Disable Overlay Scrollbars in Ubuntu] (http://ubuntuhandbook.org/index.php/2013/10/disable-overlay-scrollbars-ubuntu13-10/)
+* [Xdebug on Ubuntu for WordPress] (http://devwp.eu/xdebug-on-ubuntu-for-wordpress/) - with a few personal tweaks
