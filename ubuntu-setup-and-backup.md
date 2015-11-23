@@ -67,6 +67,7 @@ with list of todo tasks and useful URLs to make my life easier when it comes to 
 * wp-cli
 * Sass/Compass
 * Grunt
+* Node - run this in order to make sure node is working properly `sudo ln -s /usr/bin/nodejs /usr/bin/node`
 * [ack](http://metodiew.com/install-ack-on-ubuntu/)
 * Xdebug
 * Poedit
@@ -74,6 +75,7 @@ with list of todo tasks and useful URLs to make my life easier when it comes to 
 ## Things TODO after install
 * Vivacom USB - [Huawei E173s and Ubuntu] (http://metodiew.com/huawei-e173s-and-ubuntu/)
 * HDMI Sound - fix the issue
+* [Eclipse - Add Sass support] (http://stackoverflow.com/a/12322531)
 * [No Alt + Tab in 15.04 Gnome Flashback session?] (http://askubuntu.com/a/498317)
 * [Fix Calendar Language issue](http://askubuntu.com/a/288365)
 * Add Workspaces - `Go to Compiz Settings => General Options => Desktop Size`
