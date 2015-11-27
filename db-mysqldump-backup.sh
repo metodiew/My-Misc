@@ -12,4 +12,5 @@ dbname=""
 
 if [ "$dbname" ]; then
   mysqldump --user=$dbuser --password=$dbpass $dbname > $directory/$dbname-$today.sql
+  sshpass -p 'server-pass-here' scp directory/$dbname-$today.sql server-user-here@XX.XX.XX.XX:/home/user/backup/
 fi
