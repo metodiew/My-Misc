@@ -1,0 +1,20 @@
+/* Gmail */
+.gb_Lb .gb_Nb {
+	background: url("http://devrix.devrix.netdna-cdn.com/wp-content/newdevrix-site/themes/devrix-v2/assets/images/logo-white.svg") center center;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 0 0 !important;
+}
+
+/* Asana */
+#defaultSplash-footer svg {
+	display: none;
+}
+
+#defaultSplash-footer {
+  background: url("http://devrix.devrix.netdna-cdn.com/wp-content/newdevrix-site/themes/devrix-v2/assets/images/logo.svg") no-repeat;
+  background-position: center center;
+  background-size: contain;
+  height:90px;
+  margin-bottom:40px;
+}
