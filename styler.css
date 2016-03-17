@@ -1,4 +1,8 @@
 /* Gmail */
+.gb_Pb {
+  background-image: none !important;
+}
+
 .gb_Lb .gb_Nb {
 	background: url("http://devrix.devrix.netdna-cdn.com/wp-content/newdevrix-site/themes/devrix-v2/assets/images/logo-white.svg") center center;
 	background-size: contain;
