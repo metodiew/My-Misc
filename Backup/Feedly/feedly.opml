@@ -263,7 +263,7 @@
         <outline text="#WordPressers" title="#WordPressers">
             <outline type="rss" text="GetSource.net" title="GetSource.net" xmlUrl="http://www.getsource.net/feed/" htmlUrl="http://www.getsource.net"/>
             <outline type="rss" text="Andrew Nacin | WordPress Lead Developer" title="Andrew Nacin | WordPress Lead Developer" xmlUrl="http://nacin.com/feed/" htmlUrl="https://nacin.com"/>
-            <outline type="rss" text="Brian Krogsgard" title="Brian Krogsgard" xmlUrl="http://krogsgard.com/feed/" htmlUrl="http://krogsgard.com"/>
+            <outline type="rss" text="Brian Krogsgard" title="Brian Krogsgard" xmlUrl="http://krogsgard.com/feed/" htmlUrl="https://krogsgard.com"/>
             <outline type="rss" text="Justin Tadlock" title="Justin Tadlock" xmlUrl="http://feeds.feedburner.com/JustinTadlock" htmlUrl="http://justintadlock.com"/>
             <outline type="rss" text="Otto on WordPress" title="Otto on WordPress" xmlUrl="http://ottopress.com/feed/" htmlUrl="http://ottopress.com"/>
             <outline type="rss" text="Pippins Plugins" title="Pippins Plugins" xmlUrl="http://pippinsplugins.com/feed/" htmlUrl="https://pippinsplugins.com"/>
