@@ -82,7 +82,7 @@
             <outline type="rss" text="WordPress Tavern" title="WordPress Tavern" xmlUrl="http://feeds2.feedburner.com/WordpressTavern" htmlUrl="http://wptavern.com"/>
             <outline type="rss" text="http://wpunknown.com/" title="http://wpunknown.com/" xmlUrl="http://wpunknown.com/feed/" htmlUrl="http://wpunknown.com"/>
             <outline type="rss" text="Theme Options Gallery" title="Theme Options Gallery" xmlUrl="http://themeoptions.wordpress.com/feed/" htmlUrl="https://themeoptions.wordpress.com"/>
-            <outline type="rss" text="ThemeShaper" title="ThemeShaper" xmlUrl="http://themeshaper.com/feed/" htmlUrl="http://themeshaper.com"/>
+            <outline type="rss" text="ThemeShaper" title="ThemeShaper" xmlUrl="http://themeshaper.com/feed/" htmlUrl="https://themeshaper.com"/>
             <outline type="rss" text="Nothing to See Here" title="Nothing to See Here" xmlUrl="http://ottodestruct.com/feed/" htmlUrl="http://ottodestruct.com"/>
             <outline type="rss" text="WordSesh 2013" title="WordSesh 2013" xmlUrl="http://wordsesh.org/feed/" htmlUrl="http://wordsesh.org"/>
             <outline type="rss" text="Words for WP" title="Words for WP" xmlUrl="http://wordsforwp.com/feed/" htmlUrl="http://wordsforwp.com"/>
@@ -112,7 +112,7 @@
             <outline type="rss" text="Syed BalkhiSyed Balkhi" title="Syed BalkhiSyed Balkhi" xmlUrl="http://www.balkhis.com/feed/" htmlUrl="https://syedbalkhi.com"/>
             <outline type="rss" text="БЛОГ на Богомил Шопов - Бого" title="БЛОГ на Богомил Шопов - Бого" xmlUrl="http://bogomil.info/feed" htmlUrl="http://bogomil.info"/>
             <outline type="rss" text="БЛОГодаря" title="БЛОГодаря" xmlUrl="http://blog.bozho.net/?feed=rss2" htmlUrl="http://blog.bozho.net"/>
-            <outline type="rss" text="Rarst.net" title="Rarst.net" xmlUrl="http://feeds.rarst.net/rarst-posts" htmlUrl="http://www.rarst.net"/>
+            <outline type="rss" text="Rarst.net" title="Rarst.net" xmlUrl="http://feeds.rarst.net/rarst-posts" htmlUrl="https://www.rarst.net"/>
             <outline type="rss" text="Svetlin Nakov – Official Web Site and Blog" title="Svetlin Nakov – Official Web Site and Blog" xmlUrl="http://feeds.feedburner.com/svetlinnakov" htmlUrl="http://www.nakov.com"/>
             <outline type="rss" text="Codito ergo sum" title="Codito ergo sum" xmlUrl="http://skanev.com/feed/" htmlUrl="http://skanev.com"/>
             <outline type="rss" text="Remkus de Vries" title="Remkus de Vries" xmlUrl="http://remkusdevries.com/feed/" htmlUrl="https://remkusdevries.com"/>
@@ -163,11 +163,11 @@
             <outline type="rss" text="Нора без захар." title="Нора без захар." xmlUrl="http://sugarfreenora.wordpress.com/feed/" htmlUrl="https://sugarfreenora.wordpress.com"/>
         </outline>
         <outline text="Business" title="Business">
-            <outline type="rss" text="Double Your Freelancing" title="Double Your Freelancing" xmlUrl="http://brennandunn.com/feed/" htmlUrl="http://doubleyourfreelancing.com"/>
+            <outline type="rss" text="Double Your Freelancing" title="Double Your Freelancing" xmlUrl="http://brennandunn.com/feed/" htmlUrl="https://doubleyourfreelancing.com"/>
         </outline>
         <outline text="WordPress-Meta and WP News" title="WordPress-Meta and WP News">
             <outline type="rss" text="wptvmods" title="wptvmods" xmlUrl="http://wptvmods.wordpress.com/feed/" htmlUrl="https://wptvmods.wordpress.com"/>
-            <outline type="rss" text="GlotPress" title="GlotPress" xmlUrl="http://blog.glotpress.org/feed/" htmlUrl="http://blog.glotpress.org"/>
+            <outline type="rss" text="GlotPress" title="GlotPress" xmlUrl="http://blog.glotpress.org/feed/" htmlUrl="https://blog.glotpress.org"/>
             <outline type="rss" text="Matt on Not-WordPress" title="Matt on Not-WordPress" xmlUrl="http://matt.wordpress.com/feed/" htmlUrl="https://matt.wordpress.com"/>
             <outline type="rss" text="Supporting Everything WordPress" title="Supporting Everything WordPress" xmlUrl="http://make.wordpress.org/support/feed/" htmlUrl="https://make.wordpress.org/support"/>
             <outline type="rss" text="Make WordPress Systems" title="Make WordPress Systems" xmlUrl="http://make.wordpress.org/systems/feed/" htmlUrl="https://make.wordpress.org/systems"/>
@@ -261,7 +261,7 @@
             <outline type="rss" text="metodiew's corner" title="metodiew's corner" xmlUrl="http://feeds.feedburner.com/metodiew" htmlUrl="http://blog.metodiew.com"/>
         </outline>
         <outline text="#WordPressers" title="#WordPressers">
-            <outline type="rss" text="GetSource.net" title="GetSource.net" xmlUrl="http://www.getsource.net/feed/" htmlUrl="http://www.getsource.net"/>
+            <outline type="rss" text="GetSource.net" title="GetSource.net" xmlUrl="http://www.getsource.net/feed/" htmlUrl="https://getsource.net"/>
             <outline type="rss" text="Andrew Nacin | WordPress Lead Developer" title="Andrew Nacin | WordPress Lead Developer" xmlUrl="http://nacin.com/feed/" htmlUrl="https://nacin.com"/>
             <outline type="rss" text="Brian Krogsgard" title="Brian Krogsgard" xmlUrl="http://krogsgard.com/feed/" htmlUrl="https://krogsgard.com"/>
             <outline type="rss" text="Justin Tadlock" title="Justin Tadlock" xmlUrl="http://feeds.feedburner.com/JustinTadlock" htmlUrl="http://justintadlock.com"/>
@@ -319,7 +319,7 @@
         <outline type="rss" text="PM Stories" title="PM Stories" xmlUrl="http://feeds.feedburner.com/PmStoriesBg" htmlUrl="http://pmstories.com/bg"/>
         <outline type="rss" text="За един блог повече..." title="За един блог повече..." xmlUrl="http://shmatko.blogspot.com/feeds/posts/default" htmlUrl="http://shmatko.blogspot.com/"/>
         <outline type="rss" text="~WithLoveFromBG~ | Connecting to Bulgaria" title="~WithLoveFromBG~ | Connecting to Bulgaria" xmlUrl="http://withlovefrombg.wordpress.com/feed/" htmlUrl="https://withlovefrombg.wordpress.com"/>
-        <outline type="rss" text="Building Feedly | Re-imagine how people keep in touch with their favorite sites." title="Building Feedly | Re-imagine how people keep in touch with their favorite sites." xmlUrl="http://blog.feedly.com/feed/" htmlUrl="http://blog.feedly.com"/>
+        <outline type="rss" text="Building Feedly | Re-imagine how people keep in touch with their favorite sites." title="Building Feedly | Re-imagine how people keep in touch with their favorite sites." xmlUrl="http://blog.feedly.com/feed/" htmlUrl="https://blog.feedly.com"/>
         <outline type="rss" text="The Bulgarian History Podcast » Comments Feed" title="The Bulgarian History Podcast » Comments Feed" xmlUrl="http://bghistorypodcast.com/comments/feed/" htmlUrl="http://bghistorypodcast.com"/>
     </body>
 </opml>
