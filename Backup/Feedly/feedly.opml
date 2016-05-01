@@ -126,7 +126,7 @@
             <outline type="rss" text="Блогът на Биляна и Петър Събеви" title="Блогът на Биляна и Петър Събеви" xmlUrl="http://www.peter.and.bilyana.net/index.php/feed/" htmlUrl="http://www.peter.and.bilyana.net"/>
             <outline type="rss" text="Frederick Townes" title="Frederick Townes" xmlUrl="http://feeds.fredericktownes.com/fredericktownes" htmlUrl="http://www.fredericktownes.com/"/>
             <outline type="rss" text="Како Сийке, не съм от тях!" title="Како Сийке, не съм от тях!" xmlUrl="http://kaka-cuuka.com/feed" htmlUrl="http://kaka-cuuka.com"/>
-            <outline type="rss" text="Coen Jacobs" title="Coen Jacobs" xmlUrl="http://coenjacobs.me/feed/" htmlUrl="http://coenjacobs.me"/>
+            <outline type="rss" text="Coen Jacobs" title="Coen Jacobs" xmlUrl="http://coenjacobs.me/feed/" htmlUrl="https://coenjacobs.me"/>
             <outline type="rss" text="Блогът на Юруков" title="Блогът на Юруков" xmlUrl="http://yurukov.net/blog/feed/" htmlUrl="http://yurukov.net/blog"/>
             <outline type="rss" text="doncho.net" title="doncho.net" xmlUrl="http://blog.doncho.net/?feed=rss2" htmlUrl="https://doncho.net"/>
             <outline type="rss" text="Димитър Николов" title="Димитър Николов" xmlUrl="http://www.dimnikolov.com/feed/" htmlUrl="http://dimnikolov.com"/>
@@ -270,12 +270,12 @@
             <outline type="rss" text="Jenny Wong" title="Jenny Wong" xmlUrl="http://jwong.co.uk/feed/" htmlUrl="http://jwong.co.uk"/>
             <outline type="rss" text="Scott Basgaard" title="Scott Basgaard" xmlUrl="http://scottbasgaard.com/feed/" htmlUrl="http://scottbasgaard.com"/>
             <outline type="rss" text="Ryan Boren" title="Ryan Boren" xmlUrl="http://boren.nu/feed/" htmlUrl="https://ryan.boren.me"/>
-            <outline type="rss" text="Mike  Jolley" title="Mike  Jolley" xmlUrl="http://feeds.feedburner.com/mikejolley" htmlUrl="http://mikejolley.com"/>
-            <outline type="rss" text="John Blackbourn" title="John Blackbourn" xmlUrl="https://lud.icro.us/feed" htmlUrl="https://johnblackbourn.com"/>
+            <outline type="rss" text="Mike  Jolley" title="Mike  Jolley" xmlUrl="http://feeds.feedburner.com/mikejolley" htmlUrl="https://mikejolley.com"/>
+            <outline type="rss" text="John Blackbourn International Shipping Company" title="John Blackbourn International Shipping Company" xmlUrl="https://lud.icro.us/feed" htmlUrl="https://johnblackbourn.com"/>
             <outline type="rss" text="Tom McFarlin" title="Tom McFarlin" xmlUrl="http://feeds.feedburner.com/tommcfarlin" htmlUrl="https://tommcfarlin.com"/>
             <outline type="rss" text="WerdsWords" title="WerdsWords" xmlUrl="http://werdswords.com/feed/" htmlUrl="http://werdswords.com"/>
             <outline type="rss" text="Bowe Frankema" title="Bowe Frankema" xmlUrl="http://bowefrankema.nl/feed/" htmlUrl="http://bowefrankema.nl"/>
-            <outline type="rss" text="Matt Thomas" title="Matt Thomas" xmlUrl="http://mattnt.com/feed/" htmlUrl="http://mattmiklic.com"/>
+            <outline type="rss" text="Matt Thomas" title="Matt Thomas" xmlUrl="http://mattnt.com/feed/" htmlUrl="https://mattmiklic.com"/>
             <outline type="rss" text="Barry Kooij" title="Barry Kooij" xmlUrl="http://www.barrykooij.com/feed/" htmlUrl="http://www.barrykooij.com"/>
             <outline type="rss" text="Dominik Schilling" title="Dominik Schilling" xmlUrl="http://wpgrafie.de/feed/" htmlUrl="https://dominikschilling.de"/>
             <outline type="rss" text="Konstantin Kovshenin" title="Konstantin Kovshenin" xmlUrl="http://kovshenin.com/feed/" htmlUrl="https://kovshenin.com"/>
