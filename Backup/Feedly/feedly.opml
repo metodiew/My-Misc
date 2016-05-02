@@ -182,7 +182,6 @@
             <outline type="rss" text="WordPress Plugins » Tag" title="WordPress Plugins » Tag" xmlUrl="https://wordpress.org/plugins/rss/tags/adopt-me" htmlUrl="https://wordpress.org/plugins/tags/adopt-me"/>
             <outline type="rss" text="WordPress News" title="WordPress News" xmlUrl="http://wordpress.org/news/feed/" htmlUrl="https://wordpress.org/news"/>
             <outline type="rss" text="WordPress Bulgaria User Group" title="WordPress Bulgaria User Group" xmlUrl="http://wpbgug.org/feed/" htmlUrl="http://wpbgug.org"/>
-            <outline type="rss" text="Make WordPress Community" title="Make WordPress Community" xmlUrl="http://make.wordpress.org/community/feed/" htmlUrl="https://make.wordpress.org/community"/>
             <outline type="rss" text="Make WordPress.org" title="Make WordPress.org" xmlUrl="http://make.wordpress.org/meta/feed/" htmlUrl="https://make.wordpress.org/meta"/>
             <outline type="rss" text="Make WordPress Themes" title="Make WordPress Themes" xmlUrl="http://make.wordpress.org/themes/feed/" htmlUrl="https://make.wordpress.org/themes"/>
             <outline type="rss" text="Make WordPress Accessible" title="Make WordPress Accessible" xmlUrl="http://make.wordpress.org/accessibility/feed/" htmlUrl="https://make.wordpress.org/accessibility"/>
