@@ -42,6 +42,7 @@ with list of todo tasks and useful URLs to make my life easier when it comes to 
   * Chrome
   * [Firefox Developer](http://askubuntu.com/a/548005)
   * Opera
+  * Vivaldi
 * Skype
 * [Skype 2](http://blog.metodiew.com/vtora-skype-instantsiya-secondary-skype-pod-ubuntu-12-04/)
 * HipChat
@@ -62,6 +63,7 @@ with list of todo tasks and useful URLs to make my life easier when it comes to 
 * Virtual Box
 * Vagrant
 * VVV
+* Vim
 * Gimp
 * Ecllise - [Setup WordPress coding formatter](https://github.com/metodiew/My-Misc/blob/master/Eclipse-PDT/eclipse-WordPress-formatter.xml)
 * wp-cli
@@ -71,6 +73,10 @@ with list of todo tasks and useful URLs to make my life easier when it comes to 
 * [ack](http://metodiew.com/install-ack-on-ubuntu/)
 * Xdebug
 * Poedit
+* Spotify
+* k3b
+* Sublime
+* LibreOffice
 
 ## Things TODO after install
 * Vivacom USB - [Huawei E173s and Ubuntu] (http://metodiew.com/huawei-e173s-and-ubuntu/)
