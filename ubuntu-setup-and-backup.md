@@ -66,8 +66,10 @@ with list of todo tasks and useful URLs to make my life easier when it comes to 
 * Vim
 * Gimp
 * Ecllise - [Setup WordPress coding formatter](https://github.com/metodiew/My-Misc/blob/master/Eclipse-PDT/eclipse-WordPress-formatter.xml)
-* wp-cli
+* [WP-CLI](http://wp-cli.org/#installing)
 * Sass/Compass
+  * We need to install Ruby first: `sudo apt-get install ruby-full`
+  * Then: `sudo gem install sass --no-user-install`
 * Grunt
 * Node - run this in order to make sure node is working properly `sudo ln -s /usr/bin/nodejs /usr/bin/node`
 * [ack](http://metodiew.com/install-ack-on-ubuntu/)
