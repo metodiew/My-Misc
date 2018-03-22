@@ -1,10 +1,11 @@
 /* Gmail */
 /* Hide the Gmail logo*/
-a[href="#inbox"] .gb_6b {
-	/* background: none !important; */
+span.gb_hc {
+    background: none;
 }
 
-a[href="#inbox"] .gb_6b {
+/* Add the DevriX logo, replacing the Google's */
+a > .gb_hc {
   	background: url("http://devrix.devrix.netdna-cdn.com/wp-content/newdevrix-site/themes/devrix-v2/assets/images/logo-white.svg") center center;
 	background-size: contain;
 	background-repeat: no-repeat;
