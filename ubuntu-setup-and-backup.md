@@ -21,7 +21,7 @@ with list of todo tasks and useful URLs to make my life easier when it comes to 
 
 ## OS Install
 * Apache Settings
-* etc/hosts
+* /etc/hosts file
 * /etc/NetworkManager/system-connections
 * .ssh
 * Startup Applications
@@ -35,53 +35,85 @@ with list of todo tasks and useful URLs to make my life easier when it comes to 
 
 ## www/SQL
 * /var/www/html/ directory
-* MySQL databases
+* SQL databases
+* Vagrant www folders
+* Vagrant SQL databases
 
-## Software, Programs, Toosl
-* Browsers
-  * Chrome
-  * [Firefox Developer](http://askubuntu.com/a/548005)
-  * Opera
-  * Vivaldi
+## Software, Programs, Tools to be installed
+
+### Browsers
+* Chrome
+* [Firefox Developer](http://askubuntu.com/a/548005)
+* Opera
+* Vivaldi
+
+
+### Communication
+
+* Slack
 * Skype
 * [Skype 2](http://blog.metodiew.com/vtora-skype-instantsiya-secondary-skype-pod-ubuntu-12-04/)
-* HipChat
-* Slack
+* Viber
+* Zoom
 * XChat
-* Guake
-* VLC
+
+
+### Productivity
 * Hamster
-* Rhythmbox
+* RescueTime
+* Grammarly - do not forget to login, otherwise the stats will be lost :)
+* [ack](http://metodiew.com/install-ack-on-ubuntu/)
+
+
+### Development
+All needed dev tools, programs and helpful gadgets
+
+* LAMP stack
+* Git
+* SVN
+* Vagrant
+* VVV
+* [WP-CLI](http://wp-cli.org/#installing)
+* Xdebug
+* Node
+* Sass/Compass
+  * We need to install Ruby first: `sudo apt-get install ruby-full`
+  * Then: `sudo gem install sass --no-user-install`
+* Grunt
+  * `sudo apt install npm`
+  * run this in order to make sure node is working properly `sudo ln -s /usr/bin/nodejs /usr/bin/node`
+* Gulp: `npm install gulp`
+
+
+### Tools
+Some general tools which is hard to be categorized
+
+* Guake
+* Vim
+* Virtual Box
+* Gimp
+* Gedit, in case there isn't
 * Torguard
 * Dropbox
 * pCloud
 * FileZilla
 * TLP Ubuntu
-* LAMP stack
-* Git
-* SVN
-* Virtual Box
-* Vagrant
-* VVV
-* Vim
-* Gimp
-* Ecllise - [Setup WordPress coding formatter](https://github.com/metodiew/My-Misc/blob/master/Eclipse-PDT/eclipse-WordPress-formatter.xml)
-* [WP-CLI](http://wp-cli.org/#installing)
-* Sass/Compass
-  * We need to install Ruby first: `sudo apt-get install ruby-full`
-  * Then: `sudo gem install sass --no-user-install`
-* Grunt
-* Node
-  * `sudo apt install npm`
-  * run this in order to make sure node is working properly `sudo ln -s /usr/bin/nodejs /usr/bin/node`
-* Gulp: `npm install gulp`
-* [ack](http://metodiew.com/install-ack-on-ubuntu/)
-* Xdebug
 * Poedit
-* Spotify
 * k3b
-* Sublime
 * LibreOffice
+
+
+  
+
+### Fun and Freen time
+Music, Videos, Gaming and the like
+* Spotify
+* VLC
+* Steam
+  * CSGO
+* Rhythmbox
+
+
 
 ## Things TODO after install
 * Vivacom USB - [Huawei E173s and Ubuntu] (http://metodiew.com/huawei-e173s-and-ubuntu/)
