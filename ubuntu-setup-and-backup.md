@@ -101,6 +101,8 @@ Some general tools which is hard to be categorized
 * Poedit
 * k3b
 * LibreOffice
+* Gnome Tweaks
+  * `sudo apt-get install gnome-tweaks`
 
 
   
