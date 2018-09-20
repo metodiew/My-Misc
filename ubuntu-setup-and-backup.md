@@ -83,7 +83,7 @@ All needed dev tools, programs and helpful gadgets
 * Grunt
   * `sudo apt install npm`
   * run this in order to make sure node is working properly `sudo ln -s /usr/bin/nodejs /usr/bin/node`
-* Gulp: `npm install gulp`
+* Gulp: `npm install gulp -g`
 
 
 ### Tools
