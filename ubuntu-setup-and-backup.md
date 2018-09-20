@@ -70,6 +70,7 @@ All needed dev tools, programs and helpful gadgets
 
 * LAMP stack
 * Git
+  * `sudo npm install --global git-open`
 * SVN
 * Vagrant
 * VVV
