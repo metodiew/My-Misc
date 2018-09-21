@@ -81,7 +81,7 @@ All needed dev tools, programs and helpful gadgets
   * We need to install Ruby first: `sudo apt-get install ruby-full`
   * Then: `sudo gem install sass --no-user-install`
 * Grunt
-  * `sudo apt install npm`
+  * `npm install -g grunt-cli`
   * run this in order to make sure node is working properly `sudo ln -s /usr/bin/nodejs /usr/bin/node`
 * Gulp: `npm install gulp -g`
 
