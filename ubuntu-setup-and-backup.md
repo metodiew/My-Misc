@@ -33,7 +33,7 @@ with list of todo tasks and useful URLs to make my life easier when it comes to 
   * .profile
   * .vimrc
 
-## www/SQL
+## Localhost
 * /var/www/html/ directory
 * SQL databases
 * Vagrant www folders
@@ -62,7 +62,7 @@ with list of todo tasks and useful URLs to make my life easier when it comes to 
 * Hamster
 * RescueTime
 * Grammarly - do not forget to login, otherwise the stats will be lost :)
-* [ack](http://metodiew.com/install-ack-on-ubuntu/)
+* [ack](https://metodiew.com/install-ack-on-ubuntu/)
 
 
 ### Development
@@ -84,6 +84,7 @@ All needed dev tools, programs and helpful gadgets
   * `npm install -g grunt-cli`
   * run this in order to make sure node is working properly `sudo ln -s /usr/bin/nodejs /usr/bin/node`
 * Gulp: `npm install gulp -g`
+* Visual Studio Code
 
 
 ### Tools
